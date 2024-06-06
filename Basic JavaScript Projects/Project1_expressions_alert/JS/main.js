@@ -9,3 +9,5 @@ window.alert("This is a JavaScript window alert!!!"); // Window alert method
 //This is an expression
 
 document.write(3 + 3);
+
+//This is a test
